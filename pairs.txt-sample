@@ -1,0 +1,15 @@
+DOT-USD --exchange coinbasepro
+LINK-USD --exchange coinbasepro
+MKR-USD --exchange coinbasepro
+SOL-USD --exchange coinbasepro
+XLM-USD --exchange coinbasepro
+DOGE-USDT --exchange kucoin
+IOTX-USDT --exchange kucoin
+LUNA-USDT --exchange kucoin
+MATIC-USDT --exchange kucoin
+QNT-USDT --exchange kucoin
+SHIB-USDT --exchange kucoin
+SUSHI-USDT --exchange kucoin
+THETA-USDT --exchange kucoin
+XMR-USDT --exchange kucoin
+XRP-USDT --exchange kucoin
